@@ -6,5 +6,4 @@ public class first {
 		System.out.println("Boa tarde");
 		System.out.println("Boa noite");
 	}
-
 }
